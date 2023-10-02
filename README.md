@@ -4,7 +4,7 @@ Neste repositório a terra gira na órbita do sol.
 
 
 ## Tecnologias utilizadas
-- HTML;
+- HTML
 - CSS
 - JAVASCRIPT
 - Git and Github
