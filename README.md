@@ -1,5 +1,6 @@
 # Terra
 Neste repositório a terra gira na órbita do sol.
+<br>
 ![image](https://github.com/drewneres/terra/assets/71440544/6d7c0086-bf65-49da-b86b-4a31fb38614e)
 
 
