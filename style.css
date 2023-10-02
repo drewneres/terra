@@ -14,7 +14,7 @@ body {
     height: 40em;
     position: relative;
 }
-.sun {
+.sol {
     position: absolute;
     top: 15em;
     left: 15em;
@@ -25,22 +25,22 @@ body {
     box-shadow: 0 0 3em white;
 }
 
-.earth,
-.moon {
+.terra,
+.lua {
     position: absolute;
     border-style: solid;
     border-color: white transparent transparent transparent;
     border-width: 0.1em 0.1em 0 0;
     border-radius: 50%;
 }
-.earth {
+.terra {
     top: 5em;
     left: 5em;
     width: 30em;
     height: 30em;
     animation: orbit 36.5s linear infinite;
 }
-.moon {
+.lua {
     top: 0;
     right: 0;
     width: 8em;
@@ -48,14 +48,14 @@ body {
     animation: orbit 2.7s linear infinite;
 }
 
-.earth::before,
-.moon::before {
+.terra::before,
+.lua::before {
     content: "";
     position: absolute;
     border-radius: 50%;
 }
 
-.earth::before {
+.terra::before {
     top: 2.8em;
     right: 2.8em;
     width: 3em;
@@ -63,7 +63,7 @@ body {
     background-color: rgb(52, 110, 216);
 }
 
-.moon::before {
+.lua::before {
     top: 0.8em;
     right: 0.2em;
     width: 1.2em;
